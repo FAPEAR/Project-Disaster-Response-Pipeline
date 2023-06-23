@@ -14,7 +14,7 @@ The main objective is to classify the messages in the most efficient way through
 
 3. Run your web app: `python run.py`
 
-4. Click the `PREVIEW` button to open the homepage.
+4. Click the `PREVIEW` button to open the homepage
 
 ### File Description
 - ETL Pipeline Preparation:In this file, data cleaning was done, the data frames were defined with the necessary functions to have the appropriate data for data training, this file is the base of what is related in process_data.py
@@ -24,6 +24,7 @@ The main objective is to classify the messages in the most efficient way through
 - run.py: It is a script to upload the web application.
 
 ### Acknowledgements
-Udacity: https://github.com/FAPEAR/Project-Disaster-Response-Pipeline
+Udacity: https://www.udacity.com/
+
 
 
