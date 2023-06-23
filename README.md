@@ -24,7 +24,6 @@ The main objective is to classify the messages in the most efficient way through
 - run.py: It is a script to upload the web application.
 
 ### Acknowledgements
-Udacity: https://www.udacity.com/
-
+Udacity: https://github.com/FAPEAR/Project-Disaster-Response-Pipeline
 
 
