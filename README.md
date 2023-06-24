@@ -53,7 +53,7 @@ In summary, this application has a practical impact and significant benefits in 
 - run.py: It is a script to upload the web application.
 
 ### Acknowledgements
-Udacity: https://www.udacity.com/
+Udacity: [https://www.udacity.com/](https://github.com/FAPEAR/Project-Disaster-Response-Pipeline)https://github.com/FAPEAR/Project-Disaster-Response-Pipeline
 
 
 
